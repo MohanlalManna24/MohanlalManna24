@@ -1,14 +1,15 @@
-<!-- Animated Header -->
+<!-- Header -->
 <h1 align="center">Hi 👋, I'm Mohanlal Manna</h1>
-<h3 align="center">BCA Student | Junior Software Developer | Frontend Enthusiast</h3>
+<h3 align="center">🧑🏻‍💻BCA Student | Junior Software Developer |💻 Frontend Enthusiast</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=MohanlalManna24&style=flat-square&color=0e75b6"/>
 </p>
 
 ---
-
 ## 👨‍💻 About Me
+
+<img align="right" alt="Coding" width="500" src="https://cdn.dribbble.com/users/1187836/screenshots/6539429/programer.gif"/>
 
 I am a **BCA student and junior programmer** passionate about **software development and frontend engineering**.  
 I have a solid foundation in **C, Python, and JavaScript**, along with hands-on experience in **HTML, CSS, and React.js**.
@@ -16,10 +17,9 @@ I have a solid foundation in **C, Python, and JavaScript**, along with hands-on 
 I enjoy:
 - Writing clean and readable code  
 - Building practical, real-world projects  
-- Learning modern frontend technologies  
 - Strengthening **DSA and problem-solving skills**
 
-🎯 **Actively looking for Internship / Entry-Level Opportunities** where I can learn, contribute, and grow as a developer.
+🎯 **Actively looking for Internship / Entry-Level Opportunities** where I can learn, contribute, and grow as a developer. I can learn, contribute, and grow as a developer.
 
 ---
 
@@ -41,8 +41,8 @@ I enjoy:
 
 ### 🧠 Data Structures & Core CS
 <p>
-  <img src="https://img.shields.io/badge/DSA-Structured%20Learning-success?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Stack-Queue-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/DSA-Learning-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Stack-Queue-success?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Circular%20Queue-Priority%20Queue-orange?style=for-the-badge"/>
 </p>
 
@@ -63,39 +63,27 @@ I enjoy:
 ## 📌 Projects Highlights
 
 - 🏥 **Hospital OPD Token Booking System (Frontend)**  
-  *Doctor listing, token generation, queue UI*
+  *Doctor list, time slot booking, token generation, queue display UI*
 
-- 🌐 **Responsive Websites** using HTML, CSS & JS  
-- 🧩 **JavaScript Mini Projects** (logic-based)  
-- 👥 **Group Academic Projects**
+- 🌐 **Responsive Websites** using HTML, CSS & JavaScript  
+- 🧩 **JavaScript Logic-Based Mini Projects**  
+- 👥 **College & Group Projects**
 
 ---
 
 ## 📚 Currently Learning
 - Advanced JavaScript (ES6+)
-- React Hooks & Context API
+- React Hooks & advanced topic
 - Frontend Project Structure
 - Interview-Oriented DSA
 
 ---
 
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=default" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact" height="170"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME"/>
-</p>
+## 📫 Connect With Me
+- 🔗 GitHub: https://github.com/MohanlalManna24
+- 📧 G-mail: mohanlalmanna533@gmail.com
+- 📳 Mobile Number: 9800779047
 
 ---
 
-## 📫 Contact & Links
-
-- 🔗 GitHub: https://github.com/YOUR_GITHUB_USERNAME
-
----
-
-⭐ *“Focused on learning, building, and becoming industry-ready.”*
+⭐ *Focused on learning, building projects, and becoming industry-ready.*
